@@ -10,5 +10,11 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "4c5b40de"
+  },
+  "readme.md": {
+    "readme.html": "1c3a0b08"
+  },
+  "posts/Mistral/mistral_long.md": {
+    "mistral_long.html": "98d454d6"
   }
 }
