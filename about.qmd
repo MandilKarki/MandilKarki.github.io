@@ -1,19 +1,29 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Mandil Karki"
 about:
-  template: jolla
+  template: solana
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/mandil-karki-nlp/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/MandilKarki
 
 ---
 
-About this blog
+Experienced Machine Learning Scientist with 4+ years of proven expertise in natural language processing, machine learning, deep learning, and data science. Passionate about leveraging artificial intelligence and machine learning to drive innovation, solve complex problems, and gain valuable insights.
+
+Solving problems and gaining insights with the help of machine learning algorithms have always felt like superpowers to me. I am here to apply my skills and knowledge to tackle challenges head-on, continuously learning and growing in the process. 
+
+
+#### **Publication**:
+
+
+#### **Experience**:
+
+* **Numinous Labs** | Researcher and Developer | Dec 2022 - Present
+* **RBC Canada** | Data Scientist | Feb 2022 - May 2022
+* **RippeyAI** | NLP Team Lead | May 2022 - Dec 2022
+* **Treeleaf** | NLP Engineer | Nov 2020 - Feb 2022
+* **Inspiring Labs** | AI Engineer | Apr 2021 - Aug 2021
