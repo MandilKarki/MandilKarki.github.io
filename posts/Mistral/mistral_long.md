@@ -1,8 +1,8 @@
 ---
 title: "Comprehensive Understanding of Mistral Model"
-author: "Thinam Tamang"
+author: "Mandil Karki"
 categories: [Mixture of Experts, Mistral, LLMs]
-date: "2024-3-9"
+date: "2024-3-11"
 ---
 
 ## **Sliding Window Attention**
