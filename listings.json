@@ -3,9 +3,9 @@
     "listing": "/index.html",
     "items": [
       "/posts/Mistral/mistral_long.html",
-      "/posts/Dataset/DataPreparation.html",
       "/posts/Attention/Transformer.html",
-      "/posts/WordVectors/WordVectors.html"
+      "/posts/WordVectors/WordVectors.html",
+      "/posts/Dataset/DataPreparation.html"
     ]
   }
 ]
