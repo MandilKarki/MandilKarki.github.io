@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Mandil Karki",
-    "section": "",
-    "text": "Experienced Machine Learning Scientist with 4+ years of proven expertise in natural language processing, machine learning, deep learning, and data science. Passionate about leveraging artificial intelligence and machine learning to drive innovation, solve complex problems, and gain valuable insights.\nSolving problems and gaining insights with the help of machine learning algorithms have always felt like superpowers to me. I am here to apply my skills and knowledge to tackle challenges head-on, continuously learning and growing in the process.\n\nPublication:\n\n\nExperience:\n\nNuminous Labs | Researcher and Developer | Dec 2022 - Present\nRBC Canada | Data Scientist | Feb 2022 - May 2022\nRippeyAI | NLP Team Lead | May 2022 - Dec 2022\nTreeleaf | NLP Engineer | Nov 2020 - Feb 2022\nInspiring Labs | AI Engineer | Apr 2021 - Aug 2021"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my blog!",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 11, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nComprehensive Understanding of Mistral Model\n\n\n\n\n\n\nMixture of Experts\n\n\nMistral\n\n\nLLMs\n\n\n\n\n\n\n\n\n\nMar 9, 2024\n\n\nThinam Tamang\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 8, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "readme.html",
-    "href": "readme.html",
-    "title": "Mandil’s Blog",
-    "section": "",
-    "text": "Mandil’s Blog\nPlease visit my blog: https://MandilKarki.github.io/blog/\nI am a data science, machine Learning, and deep learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms have always seemed to be superpowers for me. I am here to solve things, Learning a lot in the process. I’m currently working as a Machine Learning Engineer at\n\nPublication:\n\n\nExperience:\n\nNuminous Labs | Researcher and Developer | Dec 2022 - Present\nRBC Canada | Data Scientist | Feb 2022 - May 2022\nRippeyAI | NLP Team Lead | May 2022 - Dec 2022\nTreeleaf | NLP Engineer | Nov 2020 - Feb 2022\nInspiring Labs | AI Engineer | Apr 2021 - Aug 2021\n\nCommands to publish:\ngit checkout main\nquarto render\ngit push\n\nquarto publish gh-pages"
-  },
-  {
     "objectID": "posts/Mistral/mistral_long.html",
     "href": "posts/Mistral/mistral_long.html",
     "title": "Comprehensive Understanding of Mistral Model",
@@ -89,5 +54,26 @@
     "title": "Comprehensive Understanding of Mistral Model",
     "section": "References",
     "text": "References\n\nMistral Source Code\nLlama2 Implementation\nAttention Is All You Need"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Mandil Karki",
+    "section": "",
+    "text": "Experienced Machine Learning Scientist with 4+ years of proven expertise in natural language processing, machine learning, deep learning, and data science. Passionate about leveraging artificial intelligence and machine learning to drive innovation, solve complex problems, and gain valuable insights.\nSolving problems and gaining insights with the help of machine learning algorithms have always felt like superpowers to me. I am here to apply my skills and knowledge to tackle challenges head-on, continuously learning and growing in the process.\n\nPublication:\n\n\nExperience:\n\nNuminous Labs | Researcher and Developer | Dec 2022 - Present\nRBC Canada | Data Scientist | Feb 2022 - May 2022\nRippeyAI | NLP Team Lead | May 2022 - Dec 2022\nTreeleaf | NLP Engineer | Nov 2020 - Feb 2022\nInspiring Labs | AI Engineer | Apr 2021 - Aug 2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my blog!",
+    "section": "",
+    "text": "Comprehensive Understanding of Mistral Model\n\n\n\n\n\n\nMixture of Experts\n\n\nMistral\n\n\nLLMs\n\n\n\n\n\n\n\n\n\nMar 11, 2024\n\n\nMandil Karki\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Mandil’s Blog",
+    "section": "",
+    "text": "Mandil’s Blog\nPlease visit my blog: https://MandilKarki.github.io/blog/\nI am a data science, machine Learning, and deep learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms have always seemed to be superpowers for me. I am here to solve things, Learning a lot in the process. I’m currently working as a Machine Learning Engineer at\n\nPublication:\n\n\nExperience:\n\nNuminous Labs | Researcher and Developer | Dec 2022 - Present\nRBC Canada | Data Scientist | Feb 2022 - May 2022\nRippeyAI | NLP Team Lead | May 2022 - Dec 2022\nTreeleaf | NLP Engineer | Nov 2020 - Feb 2022\nInspiring Labs | AI Engineer | Apr 2021 - Aug 2021\n\nCommands to publish:\ngit checkout main\nquarto render\ngit push\n\nquarto publish gh-pages"
   }
 ]
